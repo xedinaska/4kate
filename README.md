@@ -40,8 +40,9 @@ sudo chmod +x run.sh
 ./run.sh 
 ```
 
-При успешном выполнении PhpMyAdmin будет доступен тут: 
+Если все прошло успешно -  PhpMyAdmin будет доступен тут: 
 http://localhost:8080 (root/rootpwd)
+
 После импорта базы данных testdb приложение будет доступно тут: http://localhost
 
 
