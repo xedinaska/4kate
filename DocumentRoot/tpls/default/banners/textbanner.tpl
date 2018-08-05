@@ -1,0 +1,1 @@
+<a href="{DN="appl_webdir"}{DN="lng"}/bannerclick{ITEM_UID}/">{ITEM_TEXT}</a><br />

@@ -1,0 +1,1 @@
+<li><a href="/{DN="lng"}{DN="APPL_WEBDIR"}{ITEM_URL}/">{ITEM_NAME}</a></li>

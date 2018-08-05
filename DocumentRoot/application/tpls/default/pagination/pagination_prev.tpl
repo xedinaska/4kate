@@ -1,0 +1,1 @@
+<li><a href="{DN="appl_webdir"}{DN="lng"}/{DN="pagination_url"}/page{PAGE_PREV}/">{DB_CONFIG="prev_page"}</a></li>

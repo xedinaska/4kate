@@ -1,0 +1,4 @@
+order deny,allow
+RewriteEngine On
+RewriteBase /
+RewriteRule .* index.php?url=$0 [QSA,L]

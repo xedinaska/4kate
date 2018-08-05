@@ -1,0 +1,184 @@
+html 
+{ 
+	height:100%; 
+	margin:0; 
+	padding:0; 
+} 
+
+body 
+{
+	background-color: #fff;
+	height:100%;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	font-family: arial;
+	color: #333;
+}
+
+#container {
+	width:968px;
+	margin:0px auto;
+	position:relative;
+	min-height:100%;
+	_height:100%;
+}
+div {
+	font-size: 13px;
+}
+.clear-all {
+	clear: both;
+}
+img {
+	border: 0px;
+}
+.img-block {
+	line-height: 0px;
+	font-size: 0px;
+}
+.img-block img {
+	line-height: normal;
+	font-size: 13px;
+}
+.img-l {
+	float: left;
+	margin-right: 15px;
+}
+.img-r {
+	float: right;
+	margin-left: 15px;
+}
+p {
+	padding: 10px 0px;
+}
+a {
+	color: #1927B3;
+}
+a:hover {
+	color: #c00;
+}
+h1, .h1 {
+	font: normal 18px arial;
+	padding: 10px 0px;
+}
+h2, .h2 {
+	font: bold 13px arial;
+	padding: 5px 0px;
+	color: #C00;
+}
+h3, .h3 {
+	font: bold 13px arial;
+	padding: 5px 0px;
+	color: #1927B3;
+}
+
+#header
+{
+	height:44px;
+	background:#8d9aa9;
+}
+
+#content
+{
+	padding: 0 0 44px 0;
+}
+
+#footer
+{
+	height:44px;
+	background:#8d9aa9;
+	position:absolute;
+	width:968px;
+	left:50%;
+	margin-left:-484px;
+	bottom:0;
+}
+
+.sitemap, .sitemap ul
+ {
+  list-style-type:none;
+  padding: 5px 0 5px 10px;
+ }
+
+.menu, .menu ul
+ {
+  list-style-type:none;
+  padding: 5px 0 5px 10px;
+ }
+
+.menu a, .menu ul a
+ {
+  text-decoration: none;
+ }
+
+.left
+ {
+  width: 200px;
+  float: left;
+  margin: 0;
+  background: #EEEEFF;
+ }
+
+.right
+ {
+  width: 200px;
+  float: left;
+  margin: 0;
+  background: #EEFFEE;
+ }
+
+.center
+ {
+  width: 568px;
+  float: left;
+  margin: 0;
+  background: #FFEEEE;
+ }
+
+.bread_crumbs
+ {
+  display:block;
+  background: #99FF99;
+ }
+
+.bread_crumbs a
+ {
+  text-decoration: none;
+  border-bottom: 1px dotted black;
+ }
+ 
+.news_list
+{
+	list-style:none;
+	padding:0 20px;
+}
+
+.news_list li
+{
+	padding:0 0 15px 0;
+}
+ 
+.pagination
+{
+	list-style:none;
+	padding:10px 20px 20px 20px;
+}
+
+.pagination li
+{
+	float:left;
+	padding:0 10px 0 0;
+}
+
+.pagination li.end
+{
+	float:none;
+	clear:both;
+}
+
+.pagination li.active
+{
+	font-weight:bold;
+}
