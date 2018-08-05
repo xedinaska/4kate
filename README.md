@@ -40,6 +40,11 @@ sudo chmod +x run.sh
 ./run.sh 
 ```
 
+При успешном выполнении PhpMyAdmin будет доступен тут: 
+http://localhost:8080 (root/rootpwd)
+После импорта базы данных testdb приложение будет доступно тут: http://localhost
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
