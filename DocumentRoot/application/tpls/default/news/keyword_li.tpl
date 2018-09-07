@@ -1,1 +1,0 @@
-<a href="{DN="appl_webdir"}{DN="lng"}/news/tags/{ITEM_URL}/">{ITEM_NAME}</a> 

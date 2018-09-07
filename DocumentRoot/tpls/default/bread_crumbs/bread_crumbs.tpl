@@ -1,1 +1,0 @@
-<span class="bread_crumbs">{LANGUAGES} {BREAD_CRUMBS} {AVAILABLE_IN}</span>

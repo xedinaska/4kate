@@ -1,1 +1,0 @@
-({DB_CONFIG="available_in_languages"} {LANGUAGES})

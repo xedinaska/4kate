@@ -1,1 +1,0 @@
-<li>{DB_CONFIG="next_page"}</li>

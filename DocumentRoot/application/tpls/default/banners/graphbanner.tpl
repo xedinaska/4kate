@@ -1,1 +1,0 @@
-<a href="{DN="appl_webdir"}{DN="lng"}/bannerclick{ITEM_UID}/"><img src="{DN="appl_webdir"}b_images/{ITEM_GRAPH}" alt="{ITEM_TEXT}" title="{ITEM_TEXT}" /></a><br />
